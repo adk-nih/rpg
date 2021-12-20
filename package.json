@@ -1,5 +1,5 @@
 {
-  "name": "games-wabot",
+  "name": "dika-bot",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -26,9 +26,9 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/adk-nih/rpg",
   "author": {
-    "name": "BochilGaming"
+    "name": "DikaStore"
   },
   "repository": {
     "type": "git",
